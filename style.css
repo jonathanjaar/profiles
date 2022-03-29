@@ -1,0 +1,101 @@
+body {
+	color: rgb(10,10,10);
+	background-color: #9D7DDE
+}
+h2{
+	color:yellow;
+	font-size:50px;
+	font-family:AvenirNext;
+
+}
+h3{color:white;
+	font-size:20px;
+	font-family:Helvetica;
+}
+h4{color:white;
+	font-size:35px;
+	font-family:Impact}
+h5{color:white;
+	font-size:15px;
+	font-family:Helvetica}
+
+div{
+	margin:0 auto;
+	text-align:center;
+	border-right: 10%
+}
+.card-center{
+	width: 800px;
+	background-color: #EA526F;
+	border-radius: 50px;
+	text-align: center;
+	margin: 0 auto;
+	box-shadow: 10px 10px 10px yellow
+}
+.card-center{
+	width: 820px;
+	background-color: #EA526F;
+	border-radius: 50px;
+	text-align: center;
+	margin: 0 auto;
+	box-shadow: 10px 10px 10px yellow
+}
+
+.card-center{
+	width: 820px;
+	background-color: #EA526F;
+	border-radius: 50px;
+	text-align: center;
+	margin: 0 auto;
+	box-shadow: 10px 10px 10px yellow
+}
+
+h6{
+	color:white;
+	font-size:35px;
+	font-family:Impact
+}
+
+ul{
+	color:white;
+	font-size:15px;
+	font-family:Helvetica;
+}
+
+.card-center{
+	width: 820px;
+	background-color: #EA526F;
+	border-radius: 50px;
+	text-align: center;
+	margin: 0 auto;
+	box-shadow: 10px 10px 10px yellow
+}
+
+h7{
+color:white;
+	font-size:35px;
+	font-family:Impact
+}
+
+p{
+	color:white;
+	font-size:15px;
+	font-family:Helvetica;
+}
+
+.instagram { 
+
+}
+
+.card-center{
+	width: 820px;
+	background-color: #EA526F;
+	border-radius: 50px;
+	text-align: center;
+	margin: 0 auto;
+	box-shadow: 10px 10px 10px yellow
+}
+
+.fa-brands {
+	font-size: 50px
+}
